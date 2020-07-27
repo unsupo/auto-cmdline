@@ -1,0 +1,26 @@
+# Cached builds
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg
+*.egg-info/
+
+# Build directories
+docs/_build/
+build/
+dist/
+venv
+
+# auto generated files
+auto_cmdline/__meta__.py
+.coverage
+
+# IDEs
+.idea/
+
+# Testing and temporary files
+.tox/
+docs/source/_static/
